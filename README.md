@@ -6,8 +6,6 @@ I'm a full-stack developer, ML enthusiast, and aspiring founder currently buildi
 - 💻 Experienced with **Flutter**, **Firebase**, **React**, and **Redux**  
 - 📱 Built a social media app from scratch using **Flutter + Firebase**  
 - 🌱 Passionate about **startups**, **stoicism**, and **self-improvement**  
-- 🎥 I also run a **YouTube channel** to share what I'm learning — one animated video at a time  
-- 🧠 Side project: Building a mental health app powered by stoic philosophy & AI  
 - 🏋️‍♂️ Trying to stay consistent with the gym... and life
 
 ---
@@ -24,7 +22,6 @@ I'm a full-stack developer, ML enthusiast, and aspiring founder currently buildi
 
 ### 📫 Let's Connect
 
-- ✨ [YouTube](https://www.youtube.com/@arynxic) – My animated breakdowns of life, code & curiosity  
 
 - 🧠 Blog/Portfolio (Coming soon...)
 
